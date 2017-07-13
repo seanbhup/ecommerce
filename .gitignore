@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/api/node_modules
+/api/config
+.sass-cache
 
 # testing
 /coverage
