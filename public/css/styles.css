@@ -1,4 +1,9 @@
-/* line 3, ../../compass/sass/styles.scss */
+/* line 1, ../../compass/sass/_header.scss */
+.register-wrapper {
+  margin-top: 100px;
+}
+
+/* line 4, ../../compass/sass/styles.scss */
 .slick-image img {
   width: 100vw;
 }
